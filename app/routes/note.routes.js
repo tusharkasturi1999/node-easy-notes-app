@@ -7,8 +7,8 @@ module.exports = (app) => {
     // Retrieve all Notes
     app.get('/notes', notes.findAll);
 
-    app.get('/tushar', (req,res)=>{
-        res.send("Hello Tushar")
+    app.get('/tushar/id', (req,res)=>{
+        res.send("Hello Tushar"+req.params.id)
     });
 
     // Retrieve a single Note with noteId
