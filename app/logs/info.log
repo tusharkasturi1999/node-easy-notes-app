@@ -5,3 +5,7 @@
 {"level":"info","message":"Note updated with id : 6162e83376c1181eec2a5324","timestamp":"2021-10-10T13:22:55.361Z"}
 {"level":"error","message":"Note not found with id : 6162e83376c1181eec2a5323","timestamp":"2021-10-10T13:26:16.477Z"}
 {"level":"info","message":"Note with id : 6162e83376c1181eec2a5324 deleted successfully!","timestamp":"2021-10-10T13:26:20.401Z"}
+{"level":"info","message":"Returned all notes from the datatbase.","timestamp":"2021-10-10T14:11:51.778Z"}
+{"level":"info","message":"Note created and saved.","timestamp":"2021-10-10T14:11:59.500Z"}
+{"level":"error","message":"Note content can not be empty.","timestamp":"2021-10-10T14:12:14.974Z"}
+{"level":"info","message":"\tNote created and saved.","timestamp":"10-Oct-2021 19:54:10"}

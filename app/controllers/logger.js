@@ -5,7 +5,8 @@ const customLogger = createLogger({
         new transports.File({            
             filename:'./app/logs/info.log',
             level:'info',
-            format: format.combine(format.timestamp(),format.json())
+                format: format.combine(format.timestamp({format: 'DD-MMM-YYYY HH:mm:ss'}),format.align(),format.json())
+  
         }),
         new transports.File({
             filename:'./app/logs/error.log',
