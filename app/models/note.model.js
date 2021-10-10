@@ -6,5 +6,15 @@ const NoteSchema = mongoose.Schema({
 }, {
     timestamps: true
 });
-
-module.exports = mongoose.model('Note', NoteSchema);
+const Note= mongoose.model('Note', NoteSchema);
+// Create a Note
+const createNote = (title, content) => {
+    const note = new Note({
+      title: title || "Untitled Note",
+      content: content,
+    });
+    // Save Note in the database
+    return note.save().then().catch();
+  };
+  
+  module.exports = { createNote, Note };

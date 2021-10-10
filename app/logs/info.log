@@ -9,3 +9,45 @@
 {"level":"info","message":"Note created and saved.","timestamp":"2021-10-10T14:11:59.500Z"}
 {"level":"error","message":"Note content can not be empty.","timestamp":"2021-10-10T14:12:14.974Z"}
 {"level":"info","message":"\tNote created and saved.","timestamp":"10-Oct-2021 19:54:10"}
+{"level":"info","message":"\tSession Started \t Successfully connected to the database","timestamp":"10-Oct-2021 20:56:45"}
+{"level":"info","message":"\t \t Session Started \t Successfully connected to the database","timestamp":"10-Oct-2021 20:56:56"}
+{"level":"info","message":"\t\\\\ Session Started \\\\ Successfully connected to the database","timestamp":"10-Oct-2021 20:57:38"}
+{"level":"info","message":"\t\\\\ Session Started \\\\ Successfully connected to the database","timestamp":"10-Oct-2021 20:57:50"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 20:57:58"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 20:59:00"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 20:59:41"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:01:42"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:02:09"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:02:19"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:02:35"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:02:52"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:03:04"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:03:34"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:04:09"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:04:18"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:11:48"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:15:56"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:16:34"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 21:54:58"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 22:04:42"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 22:07:01"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 22:13:09"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 22:14:22"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 22:14:53"}
+{"level":"info","message":"\tNote created and saved.","timestamp":"10-Oct-2021 22:15:04"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 22:37:02"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 22:42:06"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 22:42:41"}
+{"level":"info","message":"\tNote created and saved.","timestamp":"10-Oct-2021 22:42:58"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 22:46:07"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 22:55:30"}
+{"level":"info","message":"\tNote retrieved with id : 6162f4af2518925fe3f885e5","timestamp":"10-Oct-2021 22:55:33"}
+{"level":"info","message":"\tReturned all notes from the datatbase.","timestamp":"10-Oct-2021 22:57:05"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 23:42:50"}
+{"level":"info","message":"\tNote updated with id : 6162f4af2518925fe3f885e5","timestamp":"10-Oct-2021 23:43:13"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 23:44:15"}
+{"level":"info","message":"\tNote with id : 6162f4af2518925fe3f885e5 deleted successfully!","timestamp":"10-Oct-2021 23:44:30"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 23:46:29"}
+{"level":"error","message":"\tNote not found with id : 6162f4af2518925fe3f885e5","timestamp":"10-Oct-2021 23:46:54"}
+{"level":"info","message":"\t\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 23:49:12"}
+{"level":"info","message":"\\\\Session Started\\\\ Successfully connected to the database","timestamp":"10-Oct-2021 23:52:24"}

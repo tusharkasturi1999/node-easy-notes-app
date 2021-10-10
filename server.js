@@ -2,6 +2,7 @@ const express = require('express');
 const dbConfig = require('./config/database.config.js');
 const mongoose = require('mongoose');
 const app = express();
+const logger = require('./app/controllers/logger')
 app.use(express.urlencoded({
     extended: false
 }))
@@ -11,7 +12,8 @@ require('./app/routes/note.routes.js')(app);
 mongoose.connect(dbConfig.url, {
     useNewUrlParser: true
 }).then(() => {
-    console.log("Successfully connected to the database");    
+    console.log("Successfully connected to the database");
+    logger.customLogger.log("info","\\\\Session Started\\\\ Successfully connected to the database")    
 }).catch(err => {
     console.log('Could not connect to the database. Exiting now...', err);
     process.exit();
@@ -19,5 +21,5 @@ mongoose.connect(dbConfig.url, {
 var server = app.listen(3000, () => {
    var host = server.address().address
    var port = server.address().port
-   console.log("Example app listening at http://%s:%s", host, port)
+   console.log("listening at http://%s:%s", host, port)
 })
